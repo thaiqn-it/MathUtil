@@ -16,5 +16,16 @@ public class MathUtil {
      */
     public static void main(String[] args) {
         System.out.println("5! = "+ computeFactorial(5));
+        
+        //expexted: ham oi t hi vong kq = 720 khi 6!
+        System.out.println("6! = "+ computeFactorial(6));
+        //Phan code cua ham main() 
+        //de test phan mem ta chuan bi sau:
+        //1. Chuan bi data, vi du 5,6,7,0,1,2
+        //2. Tinh toan truoc bang tay
+        //3. Goi lenh , goi app goi ham chay thu voi data da chuan bi
+        //coi xem ham tra ve ket qua may
+        
+        //Xai thu 
     }  
 }
