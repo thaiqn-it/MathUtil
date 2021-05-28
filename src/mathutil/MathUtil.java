@@ -17,6 +17,8 @@ public class MathUtil {
     public static void main(String[] args) {
         System.out.println("5! = "+ computeFactorial(5));
         System.out.println("5! = "+ computeFactorial(5));
+        System.out.println("56! = "+ computeFactorial(5));
+
         
         //expexted: ham oi t hi vong kq = 720 khi 6!
         System.out.println("6! = "+ computeFactorial(6));
